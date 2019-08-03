@@ -45,6 +45,7 @@ h1 {
   color: #bfbfbf;
   line-height: 20px;
   font-weight: 400;
+  height: auto;
 }
 
 .styleguidecontain {
