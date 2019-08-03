@@ -311,7 +311,6 @@ h1 {
   display: none;
   overflow: visible;
   width: 100%;
-  height: 80vh;
   min-width: 1200px;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -333,7 +332,6 @@ h1 {
   display: none;
   overflow: auto;
   width: 100%;
-  height: 80vh;
   min-width: 1200px;
   margin-top: 20px;
   padding-right: 35%;
@@ -350,7 +348,6 @@ h1 {
   display: none;
   overflow: auto;
   width: 100%;
-  height: 80vh;
   min-width: 1200px;
   padding-top: 20px;
   padding-right: 35%;
@@ -366,7 +363,6 @@ h1 {
   display: none;
   overflow: auto;
   width: 100%;
-  height: 80vh;
   min-width: 1200px;
   padding-top: 20px;
   padding-right: 35%;
@@ -382,7 +378,6 @@ h1 {
   display: none;
   overflow: auto;
   width: 100%;
-  height: 80vh;
   min-width: 1200px;
   padding: 20px 35% 0px;
   -webkit-box-pack: start;
