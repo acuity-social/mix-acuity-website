@@ -38,7 +38,6 @@ h1 {
 .body {
   background-image: url('../images/blurblue.jpg');
   background-position: 50% 50%;
-  background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Work Sans', sans-serif;
@@ -1847,4 +1846,3 @@ h1 {
     align-items: center;
   }
 }
-
